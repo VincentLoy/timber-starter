@@ -1,0 +1,14 @@
+# config/fontcustom.yml
+
+font_name: vl-icons
+css_selector: .vl-icon-{{glyph}}
+preprocessor_path: ""
+autowidth: true
+no_hash: true
+force: false
+debug: false
+quiet: false
+
+output:
+  fonts: ./compiled
+  css: ./compiled

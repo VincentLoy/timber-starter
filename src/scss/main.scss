@@ -1,0 +1,15 @@
+@import "variables";
+
+@import "~bootstrap/scss/bootstrap";
+
+@import "mixins";
+
+// --- CUSTOM FONTS
+//@import "../icons/custom/compiled/vl-icons.css";
+// --- /CUSTOM FONTS
+
+// --- PARTIALS IMPORTS
+@import "global";
+@import "sections/header";
+@import "sections/footer";
+// --- /PARTIALS IMPORTS
